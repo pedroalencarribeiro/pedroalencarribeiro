@@ -54,7 +54,7 @@ https://github.com/Ars-Libri
     <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://instagram.com/pedrol.js"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://twitter.com/PedroLu96520014"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/pedro-ribeiro-abaa0b293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="www.linkedin.com/in/pedro-luis-de-alencar-ribeiro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 
